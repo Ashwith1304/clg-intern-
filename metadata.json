@@ -1,0 +1,6 @@
+{
+  "name": "Customer Churn Analysis & Business Intelligence Dashboard",
+  "description": "An interactive Data Science & Business Intelligence platform for understanding customer retention, statistical hypothesis testing, dynamic segmentation, and SQLite queries using the IBM Telco dataset.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
